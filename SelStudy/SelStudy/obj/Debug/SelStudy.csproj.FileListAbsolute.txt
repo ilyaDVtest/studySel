@@ -1,0 +1,14 @@
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\SelStudy.dll
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\SelStudy.pdb
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\nunit.framework.dll
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\WebDriver.dll
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\WebDriver.Support.dll
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\nunit.framework.pdb
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\nunit.framework.xml
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\WebDriver.xml
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\WebDriver.Support.xml
+E:\GitTest\studySel\SelStudy\SelStudy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\GitTest\studySel\SelStudy\SelStudy\obj\Debug\SelStudy.csprojResolveAssemblyReference.cache
+E:\GitTest\studySel\SelStudy\SelStudy\obj\Debug\SelStudy.dll
+E:\GitTest\studySel\SelStudy\SelStudy\obj\Debug\SelStudy.pdb
